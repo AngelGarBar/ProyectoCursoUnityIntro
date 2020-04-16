@@ -155,6 +155,9 @@
      <Compile Include="Assets\DemoAssets\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
      <Compile Include="Assets\DemoAssets\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
      <Compile Include="Assets\Scripts\CameraScript.cs" />
+     <Compile Include="Assets\Scripts\LimiteCamara.cs" />
+     <Compile Include="Assets\Scripts\PickupScript.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
      <None Include="Assets\DemoAssets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\DemoAssets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\DemoAssets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
