@@ -14,4 +14,4 @@ Se ha añadido al script del jugador una interfaz primitiva que muestra las mone
 
 El resultado final es el siguiente:
 
-![Captura final](https://drive.google.com/file/d/1jBkiF_GWko_iwdIMCeq0xtMtozXzVxAl/view)
+![Captura final](https://drive.google.com/file/d/1jBkiF_GWko_iwdIMCeq0xtMtozXzVxAl)
