@@ -14,4 +14,4 @@ Se ha añadido al script del jugador una interfaz primitiva que muestra las mone
 
 El resultado final es el siguiente:
 
-![image](https://ibb.co/chKkRQF)
+[![Screenshot-4.png](https://i.postimg.cc/sgPvXq0y/Screenshot-4.png)](https://postimg.cc/v4BQ2qsS)
